@@ -1,0 +1,4 @@
+c:\users\randy\documents\visual studio 2010\Projects\modernMedical\modernMedical\bin\Debug\modernMedical.exe
+c:\users\randy\documents\visual studio 2010\Projects\modernMedical\modernMedical\bin\Debug\modernMedical.pdb
+c:\users\randy\documents\visual studio 2010\Projects\modernMedical\modernMedical\obj\x86\Debug\modernMedical.exe
+c:\users\randy\documents\visual studio 2010\Projects\modernMedical\modernMedical\obj\x86\Debug\modernMedical.pdb
